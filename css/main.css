@@ -95,7 +95,6 @@ footer {
 
 .rescue-btn:hover {
   color: #366;
-  transform: scale(.95);
   background: rgba(248, 248, 248, 1);
   border: 2px solid #366;
   border-radius: 6px;
